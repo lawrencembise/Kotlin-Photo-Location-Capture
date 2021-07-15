@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "124505661647",
+    "firebase_url": "https://numeric-advice-315210-default-rtdb.firebaseio.com",
+    "project_id": "numeric-advice-315210",
+    "storage_bucket": "numeric-advice-315210.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124505661647:android:3f95f162efa6c9990e57ba",
+        "android_client_info": {
+          "package_name": "com.example.assignmentthree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124505661647-pcjgk0o3h8abhoha5idaabhk64ebp9vi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL3qg7oHCr7DLGxdROQh7js3s6adhUv5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124505661647-pcjgk0o3h8abhoha5idaabhk64ebp9vi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

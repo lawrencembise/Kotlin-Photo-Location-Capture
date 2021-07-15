@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AssignmentThree</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="location">location</string>
+    <string name="todo">TODO</string>
+    <string name="button">Button</string>
+    <string name="clone">clone</string>
+    <string name="capture">capture</string>
+</resources>
